@@ -70,17 +70,17 @@ Identifying design properties in a mock-up is important because it:
 | Scrum Master	| Facilitates agile processes, removes blockers, organizes meetings |
 
 # UI Component Patterns
-1. Navbar
+1. _Navbar_
 - Logo
 - Search bar
 - User navigation
 - Responsive menu
-2. Property Card
+2. _Property Card_
 - Property image
 - Basic details (price, location, rating)
 - Favorite button
 - Responsive layout
-3. Footer
+3. _Footer_
 - Site links
 - Company information
 - Social media links
