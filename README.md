@@ -26,9 +26,11 @@ The project will cover frontend development, backend APIs, database design, and 
 - Secure checkout process
 - User authentication
 ## Primary Pages
-| Property Listing View | Listing Detailed View | Simple Checkout View |
-|:----------------------|:---------------------:|:--------------------:|
-| Grid display of available properties with filters | Complete property details with images and booking form | Streamlined payment and booking confirmation |
+| Pages | Description |
+|:------|:-----------:|
+| Property Listing View | Grid display of available properties with filters | 
+| Listing Detailed View | Complete property details with images and booking form |
+| Simple Checkout View | Streamlined payment and booking confirmation |
 
 ## Importance of User-Friendly Design
 - A well-designed booking system reduces friction in the user journey
@@ -36,3 +38,21 @@ The project will cover frontend development, backend APIs, database design, and 
 - Improves customer satisfaction.
 - Clear navigation
 - Intuitive interfaces and responsive design
+
+## Color Styles:
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
+
+## Typography:
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
+## Importance of identifying design properties os a mockup design
+Identifying design properties in a mock-up is important because it:
+- Creates clarity which gives everyone fair idea of what to expected
+- Ensures consistency which brings uniformity in the design
+- Improves collaboration
+- Reduces errors in the design and saves time and money
